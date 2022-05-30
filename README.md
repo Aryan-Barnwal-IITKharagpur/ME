@@ -20,7 +20,7 @@
     }
     h2.big{
       color: red;
-      width: 200px;
+      width: 300px;
       font-size: 50px;
       
     }
