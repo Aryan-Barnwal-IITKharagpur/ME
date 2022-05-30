@@ -43,7 +43,7 @@
 
       <b><p>I am </p>
       <h2>Aryan Barnwal</h2>
-      <p>This is my first website. And I really enjoyed making it.</p>
+      <p>This is my website. And I really enjoyed making it.</p>
       <p>I am a first year undergraduate student,from the department of  
         <h2>Electrical Engineering<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIAqXTw_r215NdiFrkCqCFaeEUDuq9nSyAFJ3ig98pR10zgCHCQS43KNybaixY0T1pLYo&usqp=CAU" width="230" height="230" alt="electrical engineering">
         </h2> 
