@@ -39,7 +39,7 @@
     </style>
   </head>
   
-  <body style="background: url(https://cdn.wallpapersafari.com/69/12/NoPsgv.jpeg);"> 
+  <body style="background: url(https://cdn.wallpapersafari.com/69/12/NoPsgv.jpeg);" text-align: center;> 
 
       <h1><marquee>If you want to know about me please read this</marquee> </h1>
 
